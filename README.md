@@ -1,0 +1,1 @@
+A Ruby on Rails application, following the Ruby on Rails tutorial book.
